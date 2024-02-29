@@ -16,13 +16,13 @@ const data = [
     avatar: AVTR1,
     name: "Tine Snow",
     review:
-      " Lorem ipsum dolor sit, amet consectetur adipisicing elit. Est autem atque, voluptas explicabo quod, ipsa exercitationem temporibus,distinctio molestiae magnam in quos natus libero nemo nihil! Ea ab tenetur doloribus.",
+      "Shazar delivered good work on this MERN development project and I enjoyed working with him. His communication was top-notch, he met all deadlines, and his skills were reasonably strong. I enjoyed working with him and will likely have additional jobs for him in the future. Highly Recommended! Best of luck.",
   },
   {
     avatar: AVTR2,
     name: "Tine Snow",
     review:
-      " Lorem ipsum dolor sit, amet consectetur adipisicing elit. Est autem atque, voluptas explicabo quod, ipsa exercitationem temporibus,distinctio molestiae magnam in quos natus libero nemo nihil! Ea ab tenetur doloribus.",
+      "Amazing work done. Highly recommended if you are looking for an expert iOS developer who can give you solution out of the box. Thanks for your support. ♥",
   },
   {
     avatar: AVTR3,

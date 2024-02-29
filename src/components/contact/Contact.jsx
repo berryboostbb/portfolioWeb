@@ -31,12 +31,12 @@ const Contact = () => {
 
   return (
     <section id="contact">
-      <h5>Get In Touch!</h5>
-      <h2>Contact Me</h2>
+      {/* <h5>Get In Touch!</h5>
+      <h2>Contact Me</h2> */}
 
       <div className="container contact__container">
         <div className="contact_options">
-          <article className="contact__option">
+          {/* <article className="contact__option">
             <MdOutlineEmail className="contact__option-icon" />
             <h4>Email</h4>
             <h5>umairyaqub31@gmail.com</h5>
@@ -62,10 +62,10 @@ const Contact = () => {
             >
               Send a message
             </a>
-          </article>
+          </article> */}
         </div>
         {/* END OF CONTACT OPTIONS */}
-        <form ref={form} onSubmit={sendEmail}>
+        {/* <form ref={form} onSubmit={sendEmail}>
           <input
             type="text"
             name="name"
@@ -82,7 +82,7 @@ const Contact = () => {
           <button type="submit" className="btn btn-primary">
             Send Message
           </button>
-        </form>
+        </form> */}
       </div>
     </section>
   );

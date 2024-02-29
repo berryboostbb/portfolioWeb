@@ -7,7 +7,7 @@ const Footer = () => {
   return (
     <footer>
       <a href="/#" className="footer__logo">
-        Umair Yaqub
+        Shazar Khan
       </a>
       <ul className="permalinks">
         <li>
@@ -28,12 +28,9 @@ const Footer = () => {
         <li>
           <a href="#testimonials">Testimonials</a>
         </li>
-        <li>
-          <a href="#contact">Contact</a>
-        </li>
       </ul>
 
-      <div className="footer__socials">
+      {/* <div className="footer__socials">
         <a href="https://facebook.com">
           <FaFacebookF />
         </a>
@@ -43,10 +40,10 @@ const Footer = () => {
         <a href="https://twitter.com">
           <IoLogoTwitter />
         </a>
-      </div>
+      </div> */}
 
       <div className="footer__copyright">
-        <small>&copy; Umair Yaqub. All rights reserved.</small>
+        <small>&copy; Shazar Khan. All rights reserved.</small>
       </div>
     </footer>
   );
