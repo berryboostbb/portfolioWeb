@@ -28,13 +28,13 @@ const data = [
     avatar: AVTR3,
     name: "Tine Snow",
     review:
-      " Lorem ipsum dolor sit, amet consectetur adipisicing elit. Est autem atque, voluptas explicabo quod, ipsa exercitationem temporibus,distinctio molestiae magnam in quos natus libero nemo nihil! Ea ab tenetur doloribus.",
+      "Exceptional MERN stack developer! Delivered high-quality code swiftly and efficiently. Great communication skills and a proactive problem solver. Our project benefited immensely from their expertise. Highly recommend!",
   },
   {
     avatar: AVTR4,
     name: "Tine Snow",
     review:
-      " Lorem ipsum dolor sit, amet consectetur adipisicing elit. Est autem atque, voluptas explicabo quod, ipsa exercitationem temporibus,distinctio molestiae magnam in quos natus libero nemo nihil! Ea ab tenetur doloribus.",
+      "Outstanding React Native specialist! Created sleek, user-friendly mobile apps with ease. Met all deadlines and exceeded expectations. A true professional who takes initiative and delivers top-notch results. Will definitely hire again!",
   },
 ];
 const Testimonials = () => {
